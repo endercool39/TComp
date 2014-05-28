@@ -1,4 +1,0 @@
-TComp
-=====
-
-TComp 
